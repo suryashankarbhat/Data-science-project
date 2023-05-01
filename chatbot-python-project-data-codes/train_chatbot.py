@@ -1,3 +1,4 @@
+#reference from https://data-flair.training/blogs/python-chatbot-project/
 import nltk
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
